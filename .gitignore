@@ -1,0 +1,11 @@
+# Node
+node_modules/
+.env
+
+# Expo
+.expo/
+.expo-shared/
+
+# OS
+.DS_Store
+Thumbs.db

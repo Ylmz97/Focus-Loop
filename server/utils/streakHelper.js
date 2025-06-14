@@ -1,0 +1,1 @@
+// streakHelper.js
